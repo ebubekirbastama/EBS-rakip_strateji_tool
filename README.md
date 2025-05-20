@@ -1,0 +1,1 @@
+# EBS-rakip_strateji_tool
